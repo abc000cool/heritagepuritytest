@@ -1,2 +1,0 @@
-# heritagepuritytest
-Welcome
